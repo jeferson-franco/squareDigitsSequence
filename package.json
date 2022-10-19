@@ -1,0 +1,20 @@
+{
+    "name": "squaredigitssequence",
+    "version": "1.0.0",
+    "description": "Consider a sequence of numbers `a\\^0`, `a\\^1`, ..., `a\\^n`, in which an element is equal to the sum of squared digits of the previous element. The sequence ends once an element that has already been in the sequence appears again.",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jeferson-franco/squareDigitsSequence.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jeferson-franco/squareDigitsSequence/issues"
+    },
+    "homepage": "https://github.com/jeferson-franco/squareDigitsSequence#readme"
+}
